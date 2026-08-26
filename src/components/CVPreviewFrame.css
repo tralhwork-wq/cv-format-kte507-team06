@@ -1,0 +1,8 @@
+.cv-scaled-preview {
+  transform: scale(0.5);
+  transform-origin: top left;
+  margin: 0 -397px -562px 0;
+}
+@media (max-width: 1300px) {
+  .cv-scaled-preview { transform: scale(0.4); margin: 0 -476px -674px 0; }
+}
